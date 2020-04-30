@@ -9,3 +9,8 @@ Starting from the basics!!! Yes, Linear Regression is the first and simplest reg
 * numpy 
 * pandas
 * matplotlib
+
+Install the libraries from the pypi.org with the following commands.
+```
+pip install scikit-learn
+```
