@@ -13,4 +13,8 @@ Starting from the basics!!! Yes, Linear Regression is the first and simplest reg
 Install the libraries from the pypi.org with the following commands.
 ```
 pip install scikit-learn
+pip install numpy
+pip install pandas
+pip install matplotlib
 ```
+### Please do refer [stackoverflow](https://stackoverflow.com/) for any errors during installation
