@@ -4,7 +4,7 @@ Starting from the basics!!! Yes, Linear Regression is the first and simplest reg
 ## Installation
 
 ### Requiremenmts
-Scikit Learn
-numpy 
-pandas
+*Scikit Learn
+*numpy 
+*pandas
 
