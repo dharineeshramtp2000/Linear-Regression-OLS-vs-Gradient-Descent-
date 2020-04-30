@@ -4,6 +4,6 @@ Starting from the basics!!! Yes, Linear Regression is the first and simplest reg
 ## Installation
 
 ### Requiremenmts
-
+### > Python 3.6 or above
 
 
