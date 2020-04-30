@@ -3,5 +3,7 @@ Starting from the basics!!! Yes, Linear Regression is the first and simplest reg
 
 ## Installation
 
+## Requiremenmts
+
 
 
